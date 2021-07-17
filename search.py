@@ -18,10 +18,10 @@ bock=int(input("Enter number:"))
 if bock ==1:
     webbrowser.open("https://pentest-tools.com/information-gathering/google-hacking") 
 elif bock ==2:
-        webbrowser.open("https://olinux.net/wp-content/uploads/2019/01/python.pdf")
+    webbrowser.open("https://olinux.net/wp-content/uploads/2019/01/python.pdf")
 elif bock ==3:
-         webbrowser.open("https://www.youtube.com/watch?v=bc8JcenrvB0&list=PL_yseowcuqYJc7wXtGIsshYp1B_W0M-ZK")
+    webbrowser.open("https://www.youtube.com/watch?v=bc8JcenrvB0&list=PL_yseowcuqYJc7wXtGIsshYp1B_W0M-ZK")
 elif bock ==4:
-            webbrowser.open("https://www.youtube.com/watch?v=p53vqiTnzNw&list=PLuXY3ddo_8nzCVqXcTFqwcM5R0gZiMRiW")
+    webbrowser.open("https://www.youtube.com/watch?v=p53vqiTnzNw&list=PLuXY3ddo_8nzCVqXcTFqwcM5R0gZiMRiW")
 elif bock ==5:
     webbrowser.open("https://t.me/rcsubsunb")
